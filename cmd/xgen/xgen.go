@@ -56,6 +56,7 @@ var SupportLang = map[string]bool{
 	"Java":       true,
 	"Rust":       true,
 	"TypeScript": true,
+	"Ruby":       true,
 }
 
 // parseFlags parse flags of program.
